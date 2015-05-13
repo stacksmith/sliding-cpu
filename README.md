@@ -8,7 +8,7 @@ It has the following characteristics:
 - decoded via a sliding table of 256 (or 512) entries;
 - base of the table is related to instruction address;
 - table contains 256 target addresses or microcode entries
-- execution is theaded (see Forth etc).
+- execution is threaded (as in Forth etc).
 
 A software system is availabe for evaluating and playing with this technology a this repository:
 
